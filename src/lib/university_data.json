@@ -1,0 +1,61 @@
+{
+  "university_name": "Sohail University",
+  "summary": "Sohail University is a premier higher education institution in Karachi, Pakistan, established in 2018. It is dedicated to academic excellence, innovation, and community service.",
+  "history": "Sohail University was established under the auspices of S.M. Sohail Trust through a bill passed by the Provincial Assembly of Sindh under the Sohail University Act 2017 (Sindh Act No: XIII of 2018) on May 9th, 2018.",
+  "location": {
+    "address": "22-23 Shaheed-e-Millat Road, Karachi-74000, Pakistan",
+    "campuses": ["Main Campus (Shaheed-e-Millat Road)", "Korangi Campus"]
+  },
+  "contact": {
+    "phone": ["021-34935008-9", "021-34922321"],
+    "email_admissions": "admissions@sohailuniversity.edu.pk",
+    "email_vc": "vcoffice@sohailuniversity.edu.pk",
+    "social_media": {
+      "facebook": "https://www.facebook.com/sohailuniversity",
+      "twitter": "https://x.com/Sohail_Uni",
+      "linkedin": "https://www.linkedin.com/company/sohailuniversity"
+    }
+  },
+  "programs": {
+    "undergraduate": [
+      "BS Biosciences",
+      "BS Development Studies",
+      "BS Economics",
+      "BS Pakistan Studies",
+      "BS Software Engineering",
+      "BS Computer Science",
+      "BS Artificial Intelligence",
+      "BS Cyber Security",
+      "Bachelor in Business Administration (BBA)",
+      "BS Accounting & Finance",
+      "BS Clinical Psychology",
+      "BS Business & Computing"
+    ],
+    "associate_degrees": [
+      "AD Software Engineering",
+      "AD Computer Science",
+      "AD Cyber Security",
+      "AD Business Administration"
+    ],
+    "postgraduate": [
+      "Master in Business Administration (MBA)",
+      "MSN (Nursing)",
+      "PhD Anatomy",
+      "PhD Biochemistry",
+      "PhD Pharmacology",
+      "PhD Public Health",
+      "PhD Molecular Biology & Biotechnology",
+      "MPhil Biochemistry",
+      "MPhil Pharmacology",
+      "MPhil Physiology",
+      "MPhil Human Nutrition & Dietetics",
+      "MPhil Medical Technology",
+      "MPhil Molecular Biology & Biotechnology",
+      "MPhil Public Health"
+    ]
+  },
+  "campus_life": {
+    "facilities": ["Modern Cafeteria", "Common Room", "Advanced Computer Labs", "Fully Equipped Gym", "Digital Library"],
+    "activities": ["Tennis Tournaments", "Cricket Matches", "Annual Sports Gala", "Cultural Events (e.g., 14th August celebrations)"]
+  }
+}
